@@ -1,0 +1,2 @@
+# .github
+`.github` special repository.
