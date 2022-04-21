@@ -19,11 +19,11 @@ Supports Windows, MacOS and Linux.
 - Inject Custom apps
 - Remove bloated components to improve performance
 
-#### [Installation](https://spicetify.app/docs/getting-started/simple-installation)
-#### [Basic Usage](https://spicetify.app/docs/getting-started/basic-usage)
+#### [Installation](https://spicetify.app/docs/getting-started#installation)
+#### [Basic Usage](https://spicetify.app/docs/getting-started/#basic-usage)
 #### [Customization](https://spicetify.app/docs/development/customization)
-#### [Extensions](https://spicetify.app/docs/getting-started/extensions)
-#### [Custom Apps](https://spicetify.app/docs/getting-started/custom-apps)
+#### [Extensions](https://spicetify.app/docs/advanced-usage/extensions)
+#### [Custom Apps](https://spicetify.app/docs/advanced-usage/custom-apps)
 #### [FAQ](https://spicetify.app/docs/faq)
 
 <!--
