@@ -20,7 +20,7 @@ Supports Windows, MacOS and Linux.
 - Remove bloated components to improve performance
 
 #### [Installation](https://spicetify.app/docs/getting-started#installation)
-#### [Basic Usage](https://spicetify.app/docs/getting-started/#basic-usage)
+#### [Basic Usage](https://spicetify.app/docs/getting-started#basic-usage)
 #### [Customization](https://spicetify.app/docs/development/customization)
 #### [Extensions](https://spicetify.app/docs/advanced-usage/extensions)
 #### [Custom Apps](https://spicetify.app/docs/advanced-usage/custom-apps)
